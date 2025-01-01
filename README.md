@@ -30,7 +30,7 @@ I’m Sergio Lopez Ayala, a dedicated Systems Engineering student with a strong 
 ### 💻 Technical Skills
 
 - **Programming Languages**: Java, JavaScript, TypeScript, C, C++
-- **Web Technologies**: HTML, CSS, React, Node.js
+- **Web Technologies**: HTML, CSS, Angular CLI, Node.js
 - **Database Systems**: MySQL, PostgreSQL, Oracle SQL Developer
 - **DevOps & Cloud Tools**: Docker, AWS services, Git
 - **Cybersecurity Tools**: Basics of network security, intrusion detection, and vulnerability assessment

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Lopez Ayala</h1>
-<h3 align="center">An AWS-certified developer, cybersecurity enthusiast, and passionate backend developer from Colombia!</h3>
+<h3 align="center">An AWS-certified developer, cybersecurity enthusiast, and passionate AI Agentic and backend developer from Colombia!</h3>
 <img align="right" alt="Security" width="500" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmiau345248&label=Profile%20views&color=0e75b6&style=flat" alt="mrmiau345248" /> </p>

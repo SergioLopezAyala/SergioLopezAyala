@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm Sergio Lopez Ayala</h1>
 <h3 align="center">AWS-Certified Cloud & Backend Engineer | Agentic AI Developer | Distributed Systems Enthusiast</h3>
-
-<img align="right" alt="Coding animation" width="420" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mrmiau345248&label=Profile%20views&color=0e75b6&style=flat" alt="mrmiau345248" /> 
 </p>
 
 ---
+<img align="right" alt="Coding animation" width="420" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ### 🚀 About Me
 

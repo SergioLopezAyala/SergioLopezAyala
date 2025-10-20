@@ -1,75 +1,104 @@
-<h1 align="center">Hi 👋, I'm Sergio Lopez Ayala</h1>
-<h3 align="center">An AWS-certified developer, cybersecurity enthusiast, and passionate AI Agentic and backend developer from Colombia!</h3>
-<img align="right" alt="Security" width="500" src="https://1st-it.com/wp-content/uploads/2017/05/cyber-attack.gif">
+<h1 align="center">👋 Hi, I'm Sergio Lopez Ayala</h1>
+<h3 align="center">AWS-Certified Cloud & Backend Engineer | Agentic AI Developer | Distributed Systems Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmiau345248&label=Profile%20views&color=0e75b6&style=flat" alt="mrmiau345248" /> </p>
-<p align="left"> <a href="https://twitter.com/sergio_342" target="blank"><img src="https://img.shields.io/twitter/follow/sergio_342?logo=twitter&style=for-the-badge" alt="sergio_342" /></a> </p>
+<img align="right" alt="Coding animation" width="420" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mrmiau345248&label=Profile%20views&color=0e75b6&style=flat" alt="mrmiau345248" /> 
+</p>
 
 ---
 
 ### 🚀 About Me
-I’m Sergio Lopez Ayala, a dedicated Systems Engineering student with a strong focus on cloud computing, backend development, and cybersecurity. With 2 years of hands-on experience in Java and Spring Boot projects, I have developed a deep interest in building resilient, secure, and scalable software. Currently, I'm enhancing my skills in AWS and cybersecurity certifications to better navigate today’s technological landscape. My career combines practical problem-solving and analytical skills refined through client support roles, where I have sharpened my ability to approach complex technical challenges methodically and with a client-first mindset.
 
-### 🌱 What I’m Working On
-- **Degree**: Systems Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/)
-- **Certifications**: ISC2 Cybersecurity, AWS Cloud Practitioner, Linux environment
-- **Collaborative Projects**: Expanding Java Spring Boot projects and enhancing proficiency in full-stack solutions
-- **Cloud Learning**: Exploring deeper aspects of AWS infrastructure and advanced deployment tactics
+I’m **Sergio Lopez Ayala**, a Systems Engineer from **Colombia** passionate about building reliable and intelligent backend systems that scale.  
+My focus lies at the intersection of **cloud computing**, **AI-driven automation**, and **distributed architectures**.  
 
-### 🤝 I’m Open to Collaborating On
-- Cloud infrastructure projects, especially focused on AWS and hybrid environments
-- Backend and Spring Boot frameworks for scalable web applications
-- Collaborative learning and development in cybersecurity for safer, more secure applications
+With strong foundations in **Java/Spring Boot** and **Python**, I specialize in designing and deploying **microservice-based applications** using tools like **Docker**, **Compose**, and **Kubernetes**, integrating **CI/CD pipelines** for seamless delivery.  
 
-### 📫 How to Reach Me
-- Email: **[sl39718@gmail.com](mailto:sl39718@gmail.com)**
-- LinkedIn: **[Sergio Lopez](https://www.linkedin.com/in/sergio-lopez-b52495295)**
-  
+Recently, I’ve been working on **Agentic workflows** — developing autonomous AI systems that can reason, plan, and act across services — and leveraging **Faster-Whisper** for efficient, large-scale **audio transcription** and natural language data processing.
+
+🎯 My goal: to combine **engineering precision** with **AI intelligence** to create systems that think, adapt, and scale.
+
+---
+
+### 🎓 Education & Certifications
+- 🎓 **Systems Engineering** — [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/)
+- ☁️ **AWS Certified Developer – Associate**
+- 🧠 **ISC2 Certified in Cybersecurity (CC)**
+- 🤖 Ongoing **Agentic AI & LLM Workflow Projects**
+
+---
+
+### 💡 What I’m Currently Exploring
+- Developing **Agentic AI pipelines** using LLMs and autonomous orchestration
+- Building **end-to-end backend architectures** with **Spring Boot, PostgreSQL, and Docker Compose**
+- Deploying **Kubernetes clusters** and optimizing AWS workloads for **scalability and resilience**
+- Applying **Python tools** like **Faster-Whisper** and **LangChain** for multi-agent systems and voice-to-text automation
+- Expanding hands-on practice with **AWS Lambda, ECS, S3, and API Gateway**
+
+---
+
+### 🤝 Collaboration Interests
+- 🧩 **Agentic workflow automation** and **multi-agent orchestration**
+- 🛠️ **Backend microservices** with **Spring Boot** and **Python APIs**
+- ☁️ **Cloud DevOps** and **distributed systems architecture**
+- 🔒 **Cybersecurity-driven design** for production-grade systems
+
+---
+
+### 📬 Contact Me
+- 📧 **[sl39718@gmail.com](mailto:sl39718@gmail.com)**
+- 💼 **[LinkedIn – Sergio Lopez](https://www.linkedin.com/in/sergio-lopez-b52495295)**
+- 🐦 **[Twitter – @sergio_342](https://twitter.com/sergio_342)**
+
 ---
 
 ### 💻 Technical Skills
 
-- **Programming Languages**: Java, JavaScript, TypeScript, C, C++
-- **Web Technologies**: HTML, CSS, Angular CLI, Node.js
-- **Database Systems**: MySQL, PostgreSQL, Oracle SQL Developer
-- **DevOps & Cloud Tools**: Docker, AWS services, Git
-- **Cybersecurity Tools**: Basics of network security, intrusion detection, and vulnerability assessment
-
-### 🛠️ Soft Skills
-- **Problem-Solving**: Tackling challenges with structured, analytical approaches developed from customer support and debugging experience
-- **Leadership & Teamwork**: Mentoring peers, facilitating collaborative coding, and thriving in team-based projects
-- **Communication**: Clear and effective communication, bridging technical and non-technical roles to ensure project alignment
-
----
-
-### Connect with Me
-<p align="left">
-<a href="https://twitter.com/sergio_342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergio_342" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergio-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio lopez" height="30" width="40" /></a>
-<a href="https://instagram.com/sergio.342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergio.342" height="30" width="40" /></a>
-</p>
+| **Area** | **Technologies** |
+|-----------|------------------|
+| **Languages** | Java, Kotlin, Python, JavaScript, TypeScript, C/C++ |
+| **Backend & Frameworks** | Spring Boot, Flask, Node.js |
+| **Databases** | PostgreSQL, MySQL, Oracle SQL, MongoDB |
+| **DevOps & Cloud** | AWS (ECS, S3, Lambda, EC2), Docker, Compose, Kubernetes, CI/CD, GitHub Actions |
+| **AI & Data** | Faster-Whisper, LangChain, LLM APIs, OpenAI tools |
+| **Cybersecurity** | Vulnerability assessment, secure coding practices |
+| **Other Tools** | Linux, Figma, Angular, HTML/CSS |
 
 ---
 
 ### 🧰 Languages and Tools
+
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmiau345248&show_icons=true&locale=en&layout=compact" alt="mrmiau345248" /></p>
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioLopezAyala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SergioLopezAyala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioLopezAyala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="SergioLopezAyala" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioLopezAyala&theme=tokyonight" alt="SergioLopezAyala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmiau345248&show_icons=true&locale=en" alt="mrmiau345248" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmiau345248&" alt="mrmiau345248" /></p>
+### 🧩 Fun Facts
+- 🧠 I love optimizing **AI-powered systems** to behave more like digital agents.
+- 🌎 I’ve worked on **distributed systems** where nodes interact over ZeroMQ and REST APIs.
+- 🧰 I build **multi-container Docker environments** with **CI/CD automation**.
+- 🗣️ I’ve created **speech-to-text pipelines** using **Faster-Whisper** and **LLM summarization**.
+- 🐧 I’m most productive on **Linux** and **VS Code Remote-SSH** setups across cloud VMs.
+
+---
+
+✨ *“Build systems that think, scale, and evolve.”* ✨

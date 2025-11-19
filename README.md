@@ -58,7 +58,7 @@ Recently, I’ve been working on **Agentic workflows** — developing autonomous
 | **Area** | **Technologies** |
 |-----------|------------------|
 | **Languages** | Java, Kotlin, Python, JavaScript, TypeScript, C/C++ |
-| **Backend & Frameworks** | Spring Boot, Flask, Node.js |
+| **Backend & Frameworks** | Spring Boot, Node.js |
 | **Databases** | PostgreSQL, MySQL, Oracle SQL, MongoDB |
 | **DevOps & Cloud** | AWS (ECS, S3, Lambda, EC2), Docker, Compose, Kubernetes, CI/CD, GitHub Actions |
 | **AI & Data** | Faster-Whisper, LangChain, LLM APIs, OpenAI tools |

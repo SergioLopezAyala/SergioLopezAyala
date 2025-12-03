@@ -24,7 +24,7 @@ Recently, I’ve been working on **Agentic workflows** — developing autonomous
 ### 🎓 Education & Certifications
 - 🎓 **Systems Engineering** — [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/)
 - ☁️ **AWS Certified Developer – Associate**
-- 🧠 Ongoing **ISC2 Certified in Cybersecurity (CC)**
+- 🧠 Ongoing **CEH Cybersecurity Certification**
 - 🤖 Ongoing **Agentic AI & LLM Workflow Projects**
 
 ---

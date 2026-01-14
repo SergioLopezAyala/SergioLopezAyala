@@ -85,9 +85,23 @@ Recently, I’ve been working on **Agentic workflows** — developing autonomous
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioLopezAyala&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SergioLopezAyala" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioLopezAyala&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="SergioLopezAyala" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioLopezAyala&theme=tokyonight" alt="SergioLopezAyala" /></p>
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioLopezAyala&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=21600"
+       alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=SergioLopezAyala&show_icons=true&theme=tokyonight&cache_seconds=21600"
+       alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://streak-stats.demolab.com?user=SergioLopezAyala&theme=tokyonight"
+       alt="GitHub Streak" />
+</p>
 
 ---
 

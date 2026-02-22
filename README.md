@@ -1,116 +1,139 @@
-<h1 align="center">👋 Hi, I'm Sergio</h1>
-<h3 align="center">AWS-Certified Cloud & Backend Engineer | Agentic AI Developer | Distributed Systems Enthusiast</h3>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mrmiau345248&label=Profile%20views&color=0e75b6&style=flat" alt="mrmiau345248" /> 
+<h1 align="center">👋 Hi, I'm Sergio Lopez Ayala</h1>
+<h3 align="center">
+AWS-Certified Cloud & Backend Engineer | Agentic AI Developer | Founder & CEO @ DualCore
+</h3>
+
+<p align="center">
+  <a href="https://dual-core-website.web.app" target="_blank">
+    🌐 Visit DualCore – AI Tech Company
+  </a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=SergioLopezAyala&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
 </p>
 
 ---
-<img align="right" alt="Coding animation" width="420" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+## 🚀 About Me
 
-### 🚀 About Me
+I’m a **Systems Engineer from Colombia** and the **Founder, CEO & Lead Developer of DualCore**, an AI-driven technology company focused on building intelligent, scalable enterprise systems.
 
-I’m **Sergio Lopez Ayala**, a Systems Engineer from **Colombia** passionate about building reliable and intelligent backend systems that scale.  
-My focus lies at the intersection of **cloud computing**, **AI-driven automation**, and **distributed architectures**.  
+At **DualCore**, we design and develop:
+- 🧠 AI-powered enterprise solutions  
+- ☁️ Cloud-native scalable architectures  
+- 🔐 Secure backend infrastructures  
+- 🤖 Agentic AI systems & workflow automation  
 
-With strong foundations in **Java/Spring Boot** and **Python**, I specialize in designing and deploying **microservice-based applications** using tools like **Docker**, **Compose**, and **Kubernetes**, integrating **CI/CD pipelines** for seamless delivery.  
+My expertise lies at the intersection of:
 
-Recently, I’ve been working on **Agentic workflows** — developing autonomous AI systems that can reason, plan, and act across services — and leveraging **Faster-Whisper** for efficient, large-scale **audio transcription** and natural language data processing.
+- **Cloud Computing**
+- **AI-driven automation**
+- **Distributed architectures**
+- **Production-grade backend engineering**
 
-🎯 My goal: to combine **engineering precision** with **AI intelligence** to create systems that think, adapt, and scale.
+I specialize in **Java (Spring Boot)** and **Python**, building microservice-based systems deployed with **Docker, Kubernetes, and AWS**, supported by robust **CI/CD pipelines**.
+
+🎯 **Mission:** Combine engineering precision with AI intelligence to create systems that think, adapt, and scale.
 
 ---
 
-### 🎓 Education & Certifications
-- 🎓 **Systems Engineering** — [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/)
+## 🏢 About DualCore
+
+🚀 **DualCore – Where Ideas Evolve into Intelligent Products**
+
+I founded DualCore to help organizations adopt AI strategically and build resilient cloud architectures.
+
+🔗 Website: https://dual-core-website.web.app  
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Systems Engineering** — Pontificia Universidad Javeriana  
 - ☁️ **AWS Certified Developer – Associate**
-- 🧠 Ongoing **CEH Cybersecurity Certification**
-- 🤖 Ongoing **Agentic AI & LLM Workflow Projects**
+- 🔐 Ongoing **CEH Cybersecurity Certification**
+- 🤖 Active **Agentic AI & LLM Workflow Development**
 
 ---
 
-### 💡 What I’m Currently Exploring
-- Developing **Agentic AI pipelines** using LLMs and autonomous orchestration
-- Building **end-to-end backend architectures** with **Spring Boot, PostgreSQL, and Docker Compose**
-- Deploying **Kubernetes clusters** and optimizing AWS workloads for **scalability and resilience**
-- Applying **Python tools** like **Faster-Whisper** and **LangChain** for multi-agent systems and voice-to-text automation
-- Expanding hands-on practice with **AWS Lambda, ECS, S3, and API Gateway**
+## 💡 Current Focus
+
+- 🧠 Agentic AI pipelines & autonomous orchestration
+- 🏗️ Spring Boot + PostgreSQL production architectures
+- ☁️ Kubernetes & AWS workload optimization
+- 🎙️ Faster-Whisper large-scale transcription systems
+- 🔁 Multi-agent systems with LangChain
+- ⚙️ Distributed systems & microservices security
 
 ---
 
-### 🤝 Collaboration Interests
-- 🧩 **Agentic workflow automation** and **multi-agent orchestration**
-- 🛠️ **Backend microservices** with **Spring Boot** and **Python APIs**
-- ☁️ **Cloud DevOps** and **distributed systems architecture**
-- 🔒 **Cybersecurity-driven design** for production-grade systems
+## 🤝 Open to Collaborate On
+
+- Multi-agent AI systems  
+- Backend microservices (Spring / Python APIs)  
+- Cloud-native DevOps pipelines  
+- Secure distributed system design  
 
 ---
 
-### 📬 Contact Me
-- 📧 **[sl39718@gmail.com](mailto:sl39718@gmail.com)**
-- 💼 **[LinkedIn – Sergio Lopez](https://www.linkedin.com/in/sergio-lopez-b52495295)**
-- 🐦 **[Twitter – @sergio_342](https://twitter.com/sergio_342)**
+## 📬 Connect With Me
+
+- 📧 sl39718@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sergio-lopez-b52495295  
+- 🐦 Twitter/X: https://twitter.com/sergio_342  
+- 🌐 DualCore: https://dual-core-website.web.app  
 
 ---
 
-### 💻 Technical Skills
+## 💻 Technical Stack
 
-| **Area** | **Technologies** |
-|-----------|------------------|
-| **Languages** | Java, Kotlin, Python, JavaScript, TypeScript, C/C++ |
-| **Backend & Frameworks** | Spring Boot, Flutter, FastAPI, Angular |
-| **Databases** | PostgreSQL, MySQL, Oracle SQL, MongoDB |
-| **DevOps & Cloud** | AWS (ECS, S3, Lambda, EC2), Docker, Compose, Kubernetes, CI/CD, GitHub Actions |
-| **AI & Data** | Faster-Whisper, LangChain, LLM APIs, OpenAI tools |
-| **Cybersecurity** | Vulnerability assessment, secure coding practices |
-| **Other Tools** | Linux, Figma, Angular, HTML/CSS |
+### Languages
+`Java` `Kotlin` `Python` `TypeScript` `JavaScript` `C/C++`
+
+### Backend & Frameworks
+`Spring Boot` `FastAPI` `Flutter` `Angular`
+
+### Databases
+`PostgreSQL` `MySQL` `Oracle` `MongoDB`
+
+### DevOps & Cloud
+`AWS` `Docker` `Kubernetes` `CI/CD` `GitHub Actions`
+
+### AI & Data
+`Faster-Whisper` `LangChain` `LLM APIs`
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Tools & Platforms
 
 <p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
+<img src="https://skillicons.dev/icons?i=aws,java,python,kubernetes,docker,git,postgresql,spring,angular,linux,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioLopezAyala&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=21600"
-       alt="Top Languages" />
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SergioLopezAyala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLopezAyala&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=SergioLopezAyala&show_icons=true&theme=tokyonight&cache_seconds=21600"
-       alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://streak-stats.demolab.com?user=SergioLopezAyala&theme=tokyonight"
-       alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SergioLopezAyala&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧩 Fun Facts
-- 🧠 I love optimizing **AI-powered systems** to behave more like digital agents.
-- 🌎 I’ve worked on **distributed systems** where nodes interact over ZeroMQ and REST APIs.
-- 🧰 I build **multi-container Docker environments** with **CI/CD automation**.
-- 🗣️ I’ve created **speech-to-text pipelines** using **Faster-Whisper** and **LLM summarization**.
-- 🐧 I’m most productive on **Linux** and **VS Code Remote-SSH** setups across cloud VMs.
+## 🧩 Fun Facts
+
+- 🧠 I design AI systems that behave like autonomous digital agents  
+- 🌎 Built distributed architectures with ZeroMQ & REST  
+- 🐳 Love multi-container Docker setups  
+- 🎙️ Built speech-to-text + AI summarization pipelines  
+- 🐧 Most productive in Linux + Remote-SSH cloud environments  
 
 ---
 
-✨ *“Build systems that think, scale, and evolve.”* ✨
+✨ **“Build systems that think, scale, and evolve.”**
